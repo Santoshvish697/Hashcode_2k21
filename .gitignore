@@ -1,4 +1,4 @@
-.package-lock.json
-.package.json
-node_modules/
-.vscode/
+.package-lock
+.package
+.node_modules/.package-lock
+.vscode
