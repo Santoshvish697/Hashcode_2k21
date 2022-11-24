@@ -5,5 +5,7 @@ This NFT Marketplace is oriented towards preserving India's rich cultural herita
 
 ## Tech Stack
 Front-end: Bootstrap V5,HTML/CSS, JS (JavaScript)
+
 Back-end: Solidity Ethereum Compiler, Node JS
+
 Services: Moralis API, Etherscan.io
