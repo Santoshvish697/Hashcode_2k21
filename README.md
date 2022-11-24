@@ -4,6 +4,6 @@ Developed NFT Marketplace with the aim to provide livelihood for local scupltors
 This NFT Marketplace is oriented towards preserving India's rich cultural heritage by showcasing ancient artworks and recipes, thus emphasizing on India's rich cultural diaspora as well as providing a source of income for local artisans.
 
 ## Tech Stack
-Front-end: Bootstrap V5 , HTML/CSS
+Front-end: Bootstrap V5,HTML/CSS, JS (JavaScript)
 Back-end: Solidity Ethereum Compiler, Node JS
 Services: Moralis API, Etherscan.io
